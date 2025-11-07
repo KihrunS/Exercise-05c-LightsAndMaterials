@@ -8,4 +8,7 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Kihrun Scott
+
+## Additional Notes
+I technically used the wrong materials in a place or two, but I was mostly just curious how it would look different!
